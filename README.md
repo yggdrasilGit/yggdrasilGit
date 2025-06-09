@@ -56,5 +56,6 @@ Atualmente, busco colaborar em projetos que envolvam:
 ---
 
 ## 📫 Contato  
-📧 francismar.prof@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com) _(adicione seu link aqui)_  
+📧 yggdrasil.git@gmail.com
+📧 francismarfisicapuc@gmail.com
+🔗 ([https://www.linkedin.com](https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/) _(adicione seu link aqui)_  
