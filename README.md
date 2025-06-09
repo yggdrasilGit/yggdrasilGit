@@ -20,10 +20,10 @@ Sou físico pela Universidade Católica e atualmente curso Inteligência Artific
 
 ## 🛠️ Tecnologias  
 **Linguagens:**  
-Dart · Python · C · C++ · Java  
+Dart · Python · C · C++ 
 
 **Frameworks e Ferramentas:**  
-Flutter · Django · Vue.js · Bootstrap · Figma  
+Flutter · Django  · Bootstrap · Figma  
 
 **Banco de Dados:**  
 PostgreSQL · Oracle  
