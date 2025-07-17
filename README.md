@@ -52,9 +52,10 @@ Sou físico pela Pontifícia Universidade Católica de Goiás e atualmente curso
 <div>
   <a href="https://github.com/yggdrasilGit">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&langs_count=7&theme=dracula"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
 
 
 
