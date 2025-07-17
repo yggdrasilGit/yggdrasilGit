@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 Sobre mim  
-Sou físico pela Universidade Católica e atualmente curso Inteligência Artificial na FIAP. Atuo como professor de Ciências da Natureza, desenvolvedor e analista de dados, unindo tecnologia e educação para criar soluções com impacto real.
+Sou físico pela Pontifícia Universidade Católica de Goiás e atualmente curso Inteligência Artificial na FIAP. Atuo como professor de Ciências da Natureza com enfase em Física e Matemática desenvolvedor e analista de dados, unindo tecnologia e educação para criar soluções com impacto real.
 
 ---
 
@@ -20,7 +20,11 @@ Sou físico pela Universidade Católica e atualmente curso Inteligência Artific
 
 ## 🛠️ Tecnologias  
 **Linguagens:**  
-Dart · Python · C · C++ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />, 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
+          
+          
 
 **Frameworks e Ferramentas:**  
 Flutter · Django  · Bootstrap · Figma  
