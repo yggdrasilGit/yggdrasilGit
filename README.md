@@ -1,12 +1,25 @@
 # Francismar Alves Martins Junior
 
-Inteligência Artificial | Desenvolvimento | Educação | Dados
+Inteligência Artificial | Desenvolvimento de Software | Educação | Análise de Dados
 
 ---
 
 ## Sobre
 
-Sou graduado em Física pela PUC-GO e estudante de Inteligência Artificial pela FIAP. Atuo como professor, desenvolvedor e analista de dados, com foco na integração entre tecnologia e educação.
+Sou graduado em Física pela Pontifícia Universidade Católica de Goiás e atualmente estudante de Inteligência Artificial pela FIAP. Atuo como professor de Ciências da Natureza, com ênfase em Física e Matemática, além de trabalhar com desenvolvimento de software e análise de dados.
+
+Minha atuação está focada na integração entre tecnologia e educação, desenvolvendo soluções que utilizam inteligência artificial, engenharia de software e análise de dados para gerar impacto real no processo de aprendizagem.
+
+---
+
+## Áreas de Atuação
+
+- Inteligência Artificial aplicada à educação  
+- Desenvolvimento de aplicações web e mobile  
+- Análise e modelagem de dados  
+- Prototipação de interfaces  
+- Desenvolvimento de APIs  
+- Automação de processos  
 
 ---
 
@@ -51,31 +64,58 @@ Sou graduado em Física pela PUC-GO e estudante de Inteligência Artificial pela
 
 <div>
   <a href="https://github.com/yggdrasilGit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&theme=default"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&langs_count=8"/>
   </a>
 </div>
 
 ---
 
-## Atividade no GitHub
+## Uso de Tecnologias
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit&theme=github-compact"/>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yggdrasilGit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yggdrasilGit"/>
+</div>
 
 ---
 
-## Sequência de Contribuições
+## Atividade
 
-<img src="https://streak-stats.demolab.com?user=yggdrasilGit&theme=default"/>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit"/>
+</div>
+
+---
+
+## Produtividade
+
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yggdrasilGit"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yggdrasilGit"/>
+</div>
 
 ---
 
 ## Projetos em Destaque
 
 - Farm Tech Solution  
+Plataforma de gestão inteligente para o agronegócio baseada em análise de dados.
+
 - Jovem Matemático  
+Aplicativo educacional voltado ao reforço em matemática.
+
 - Home Broker Educacional  
+Simulador de investimentos com suporte de inteligência artificial.
+
 - EJAtec  
+Plataforma de suporte educacional para jovens e adultos.
+
+---
+
+## Abordagem
+
+Meu trabalho combina desenvolvimento, dados e educação para construir soluções aplicáveis e escaláveis. Busco sempre alinhar fundamentos teóricos com implementação prática.
 
 ---
 
@@ -87,6 +127,6 @@ LinkedIn: https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/
 
 ---
 
-## Visitas no Perfil
+## Observação
 
-<img src="https://komarev.com/ghpvc/?username=yggdrasilGit&color=blue"/>
+Este perfil é atualizado continuamente com novos projetos, estudos e aplicações práticas em inteligência artificial e desenvolvimento de software.
