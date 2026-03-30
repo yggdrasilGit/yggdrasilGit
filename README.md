@@ -26,96 +26,79 @@ Minha atuação está focada na integração entre tecnologia e educação, dese
 ## Tecnologias
 
 ### Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 
 ### Frameworks e Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 
 ### Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
 
 ### Ciência de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
 
 ---
 
 ## Estatísticas
 
-<div>
-  <a href="https://github.com/yggdrasilGit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&langs_count=8"/>
-  </a>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&cache_seconds=86400)](https://github.com/yggdrasilGit)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&langs_count=8&cache_seconds=86400)](https://github.com/yggdrasilGit)
 
 ---
 
 ## Uso de Tecnologias
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yggdrasilGit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yggdrasilGit"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yggdrasilGit&cache_seconds=86400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yggdrasilGit&cache_seconds=86400"/>
 
 ---
 
 ## Atividade
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"/>
 
 ---
 
 ## Produtividade
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yggdrasilGit"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yggdrasilGit"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yggdrasilGit&cache_seconds=86400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yggdrasilGit&utcOffset=-3&cache_seconds=86400"/>
 
 ---
 
 ## Projetos em Destaque
 
-- Farm Tech Solution  
+- **Farm Tech Solution**  
 Plataforma de gestão inteligente para o agronegócio baseada em análise de dados.
 
-- Jovem Matemático  
+- **Jovem Matemático**  
 Aplicativo educacional voltado ao reforço em matemática.
 
-- Home Broker Educacional  
+- **Home Broker Educacional**  
 Simulador de investimentos com suporte de inteligência artificial.
 
-- EJAtec  
+- **EJAtec**  
 Plataforma de suporte educacional para jovens e adultos.
 
 ---
 
 ## Abordagem
 
-Meu trabalho combina desenvolvimento, dados e educação para construir soluções aplicáveis e escaláveis. Busco sempre alinhar fundamentos teóricos com implementação prática.
+Meu trabalho combina desenvolvimento, dados e educação para construir soluções aplicáveis e escaláveis. Busco sempre alinhar fundamentos teóricos à implementação prática.
 
 ---
 
@@ -123,7 +106,9 @@ Meu trabalho combina desenvolvimento, dados e educação para construir soluçõ
 
 Email: yggdrasil.git@gmail.com  
 Email: francismarfisicapuc@gmail.com  
-LinkedIn: https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/
+
+LinkedIn:  
+https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/
 
 ---
 
