@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👨‍💻 Francismar Alves Martins Junior
@@ -174,4 +173,3 @@ me = Francismar()
 ### 💡 "Technology becomes powerful when it transforms education."
 
 </div>
-```
