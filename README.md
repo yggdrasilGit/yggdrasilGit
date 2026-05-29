@@ -1,117 +1,174 @@
-# Francismar Alves Martins Junior
+````markdown
+# 👨‍💻 Francismar Alves Martins Junior
 
-Inteligência Artificial | Desenvolvimento de Software | Educação | Análise de Dados
+### Inteligência Artificial • Desenvolvimento de Software • Educação • Ciência de Dados
 
----
+<p align="center">
+  <a href="https://github.com/yggdrasilGit">
+    <img src="https://img.shields.io/github/followers/yggdrasilGit?style=for-the-badge"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## Sobre
+  <img src="https://img.shields.io/badge/AI%20Student-FIAP-ff0050?style=for-the-badge"/>
 
-Sou graduado em Física pela Pontifícia Universidade Católica de Goiás e atualmente estudante de Inteligência Artificial pela FIAP. Atuo como professor de Ciências da Natureza, com ênfase em Física e Matemática, além de trabalhar com desenvolvimento de software e análise de dados.
-
-Minha atuação está focada na integração entre tecnologia e educação, desenvolvendo soluções que utilizam inteligência artificial, engenharia de software e análise de dados para gerar impacto real no processo de aprendizagem.
-
----
-
-## Áreas de Atuação
-
-- Inteligência Artificial aplicada à educação  
-- Desenvolvimento de aplicações web e mobile  
-- Análise e modelagem de dados  
-- Prototipação de interfaces  
-- Desenvolvimento de APIs  
-- Automação de processos  
+  <img src="https://img.shields.io/badge/Physics-PUC%20Goi%C3%A1s-0055ff?style=for-the-badge"/>
+</p>
 
 ---
 
-## Tecnologias
+# 🚀 Sobre Mim
 
-### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+Sou formado em **Física pela PUC Goiás** e atualmente estudante de **Inteligência Artificial pela FIAP**.
 
-### Frameworks e Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+Atuo integrando:
 
-### Banco de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+- 🤖 Inteligência Artificial  
+- 📊 Ciência de Dados  
+- 💻 Engenharia de Software  
+- 🎓 Tecnologia aplicada à Educação  
 
-### Ciência de Dados
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+Tenho experiência no desenvolvimento de aplicações web/mobile, análise de dados e criação de soluções educacionais escaláveis com foco em impacto real.
 
 ---
 
-## Estatísticas
+# 🧠 Áreas de Interesse
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&cache_seconds=86400)](https://github.com/yggdrasilGit)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&langs_count=8&cache_seconds=86400)](https://github.com/yggdrasilGit)
-
----
-
-## Uso de Tecnologias
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yggdrasilGit&cache_seconds=86400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yggdrasilGit&cache_seconds=86400"/>
-
----
-
-## Atividade
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"/>
+```txt
+• Inteligência Artificial aplicada à Educação
+• Desenvolvimento Full Stack
+• APIs e Microsserviços
+• Ciência e Análise de Dados
+• Automação de Processos
+• UX/UI e Prototipação
+• Modelagem Matemática e Computacional
+````
 
 ---
 
-## Produtividade
+# ⚡ Stack Tecnológica
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yggdrasilGit&cache_seconds=86400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yggdrasilGit&utcOffset=-3&cache_seconds=86400"/>
+## 💻 Linguagens
 
----
-
-## Projetos em Destaque
-
-- **Farm Tech Solution**  
-Plataforma de gestão inteligente para o agronegócio baseada em análise de dados.
-
-- **Jovem Matemático**  
-Aplicativo educacional voltado ao reforço em matemática.
-
-- **Home Broker Educacional**  
-Simulador de investimentos com suporte de inteligência artificial.
-
-- **EJAtec**  
-Plataforma de suporte educacional para jovens e adultos.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dart,c,cpp,html,css"/>
+</p>
 
 ---
 
-## Abordagem
+## 🛠 Frameworks e Ferramentas
 
-Meu trabalho combina desenvolvimento, dados e educação para construir soluções aplicáveis e escaláveis. Busco sempre alinhar fundamentos teóricos à implementação prática.
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,django,figma"/>
 
----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="48"/>
 
-## Contato
-
-Email: yggdrasil.git@gmail.com  
-Email: francismarfisicapuc@gmail.com  
-
-LinkedIn:  
-https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="48"/>
+</p>
 
 ---
 
-## Observação
+## 🗄 Banco de Dados
 
-Este perfil é atualizado continuamente com novos projetos, estudos e aplicações práticas em inteligência artificial e desenvolvimento de software.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48"/>
+</p>
+
+---
+
+## 📈 Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+</p>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yggdrasilGit&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilGit&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yggdrasilGit&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🌱 Farm Tech Solution
+
+Plataforma inteligente para gestão no agronegócio utilizando análise de dados e automação.
+
+---
+
+## 📚 Jovem Matemático
+
+Aplicativo educacional voltado ao reforço de matemática para estudantes.
+
+---
+
+## 📈 Home Broker Educacional
+
+Simulador de investimentos com suporte de inteligência artificial para educação financeira.
+
+---
+
+## 🎓 EJAtec
+
+Plataforma educacional voltada ao suporte de jovens e adultos no processo de aprendizagem.
+
+---
+
+# 🎯 Objetivo
+
+Construir soluções tecnológicas que conectem:
+
+```txt
+Educação + Inteligência Artificial + Engenharia de Software
+```
+
+com foco em aplicações reais, acessíveis e escaláveis.
+
+---
+
+# 📫 Contato
+
+<p>
+  <a href="mailto:yggdrasil.git@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="mailto:francismarfisicapuc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/francismar-alves-martins-junior-8a320b90/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yggdrasilGit&style=for-the-badge"/>
+</p>
+```
