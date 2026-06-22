@@ -4,8 +4,7 @@
 
 ### 🚀 Artificial Intelligence • Software Engineering • Data Science • Education
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=AI+Graduate+%7C+FIAP;Physics+Graduate+%7C+PUC+Goias;Postgraduate+in+Applied+Statistics;Postgraduate+in+Machine+Learning+Engineering;Postgraduate+in+Capital+Markets;Professor+of+Physics,+Mathematics+%26+Software+Engineering;Software+Developer+%26+AI+Researcher;Data+Science+%26+Artificial+Intelligence+Enthusiast;Financial+Markets+%26+Quantitative+Analysis;Building+Technology+for+Education,+Research+%26+Innovation" />
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1400&lines=Artificial+Intelligence+Graduate+%7C+FIAP;Physics+Graduate+%7C+PUC+Goias;Postgraduate+in+Applied+Statistics;Postgraduate+in+Machine+Learning+Engineering;Postgraduate+in+Capital+Markets;Professor+of+Physics,+Mathematics+and+Software+Engineering;Software+Developer,+AI+Researcher+and+Educator;Artificial+Intelligence,+Data+Science+and+Machine+Learning+Enthusiast;Financial+Markets,+Quantitative+Analysis+and+Technology;Building+Technology+Solutions+for+Education,+Research+and+Innovation" />
 
 <a href="https://github.com/yggdrasilGit">
 <img src="https://img.shields.io/github/followers/yggdrasilGit?style=for-the-badge&color=00f7ff&labelColor=1c1c1c"/>
